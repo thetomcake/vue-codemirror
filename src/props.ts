@@ -10,6 +10,7 @@ const NonDefaultBooleanType = {
 
 export const configProps = {
   autofocus: NonDefaultBooleanType,
+  spellcheck: NonDefaultBooleanType,
   disabled: NonDefaultBooleanType,
   indentWithTab: NonDefaultBooleanType,
   tabSize: Number,
